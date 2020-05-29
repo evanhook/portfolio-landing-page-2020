@@ -8,12 +8,27 @@ img {
   height: auto;
   width: 350px;
 }
-.index-photos {
-  float: left;
-}
 
 .jumbotron {
   background-color: #f9f7f7;
   color: #112d4e;
 }
 
+h4 {
+  color: #c86b85;
+}
+
+.contact-connect {
+  color: #f95959;
+}
+
+.pageUpdates h4 {
+  color: #112d4e;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: right;
+}
+.index-photos {
+  padding:10px;
+  margin: 5px;
+  float: right;
+}
