@@ -1,7 +1,7 @@
 body {
   background-color: #dbe2ef;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: #112d4e;
+  color: #3f72af;
 }
 
 img {
@@ -12,6 +12,8 @@ img {
   float: left;
 }
 
-#animal-shelter {
-  color: red;
+.jumbotron {
+  background-color: #f9f7f7;
+  color: #112d4e;
 }
+
