@@ -5,7 +5,7 @@
 #### By: Elizabeth Van Hook
 
 ## Description
-This is a personal portfolio page that shares information about me and my coding projects. This application includes text, photos, and links to coding projects created during my first week at Epicodus.
+This is a personal portfolio page that shares information about me and my coding projects. This application includes text, photos, and links to coding projects created during my first week at Epicodus.To view my page, click on this link: https://evanhook.github.io/portfolio-landing-page-2020/
 
 ## Setup & Installation
 * Clone repository using this link: https://github.com/evanhook/portfolio-landing-page-2020.git
